@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.2" type="plugin" group="system" method="upgrade">
+	<name>plg_system_wix</name>
+	<author>Joomla! Project</author>
+	<creationDate>January 2014</creationDate>
+	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>3.2.2</version>
+	<description>PLG_SYSTEM_WIX_DESCRIPTION</description>
+	<files>
+		<filename plugin="wix">wix.php</filename>
+		<folder>language</folder>
+	</files>
+</extension>
